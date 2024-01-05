@@ -10,6 +10,8 @@ I'm Lucky Alves
 💬 Algumas coisas sobre mim logo abaixo, e caso queira entrar em contato sinta-se a vontade.
 <hr>
 
+<p>Atualmente estou estundo html, css, javascript, typescript e react para front-end, e para back-end estou estuando node.js</p>
+
 ## Contato
 
 <div>
