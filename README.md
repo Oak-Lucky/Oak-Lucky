@@ -38,4 +38,4 @@ I'm Lucky Alves
 
 
 ## Github
-   <img align='left' src="https://github-readme-stats.vercel.app/api?username=xpluckyxp&show_icons=true&title_color=fff&text_color=fffe&icon_color=fff&bg_color=E10029&cache_seconds=2300">
+   <img align='left' src="https://github-readme-stats.vercel.app/api?username=oak-lucky&show_icons=true&title_color=fff&text_color=fffe&icon_color=fff&bg_color=E10029&cache_seconds=2300">
